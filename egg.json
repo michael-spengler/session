@@ -1,0 +1,10 @@
+{
+    "name": "session",
+    "description": "Sessions for deno web frameworks",
+    "homepage": "https://github.com/denjucks/session",
+    "files": [
+    "./**/*.ts",
+    "README.md"
+    ],
+    "entry": "./mod.ts"
+}
